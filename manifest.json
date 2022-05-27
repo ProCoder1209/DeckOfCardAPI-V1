@@ -1,0 +1,18 @@
+{
+    "theme_color": "#7aabff",
+    "background_color": "#7aabff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/index.html",
+    "name": "BlackJack",
+    "short_name": "BJ",
+    "description": "Play free Blackjack",
+    "icons": [
+        {
+            "src": "https://deckofcardsapi.com/static/img/favicon/apple-touch-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+			"purpose": "any maskable"
+        }
+    ]
+}
